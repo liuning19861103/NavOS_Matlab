@@ -12,7 +12,7 @@
   系统版本：  3.1                             
 # CopyRight: 
   版权归北京信息科技大学高动态导航技术北京市重点实验室所有，最终解释权归该高动态导航技术北京市重点实验室所有
-  Copyright (c) 2020 Beijing key library of High dynamic navigation technology, ISC License (open source)
+  Copyright (c) 2020 Beijing key library of High dynamic navigation technology, Apache-2.0 License (open source)
 
 # 更新记录
   version 3.01
